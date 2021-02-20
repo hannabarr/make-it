@@ -10,6 +10,10 @@ Where blog posts go:
 Global images (like logos)
     assets/img/
 
+The 'directory' section
+    pages/ : Contains .md files detailing all the available posts in a section.
+             The sections are the directories in _posts/
+
 Important things in \_data:
     navigation.yml  : Update the nav bar
     authors.yml     : Author information

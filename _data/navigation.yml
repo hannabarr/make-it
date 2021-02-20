@@ -9,9 +9,9 @@
 - title: "Needlework"
   url: "/needlework/"
   side: left
-  dropdown:
-  - title: "Hedgehogs Are Great"
-    url: "/needlework/hedgehog/"
+  #  dropdown:
+  #  - title: "Hedgehogs Are Great"
+  #    url: "/needlework/hedgehog/"
 
 - title: "Header Styles"
   url: "/headers/"
